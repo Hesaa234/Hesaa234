@@ -2,25 +2,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hesaarka" alt="Hesaarka" />
 </div>
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
   <a href="https://github.com/Hesaa234">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:hesakhansaarka@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,python,git,linux,html,css,js" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,git,linux,html,css,js&theme=dark" style="filter: grayscale(100%);" />
+</div>
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
-![Hesaarka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesaa234&show_icons=true&theme=dark)
+<!-- Kartu utama: stats + area chart kontribusi -->
+![Hesaarka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesaa234&show_icons=true&include_all_commits=true&show_area_chart=true&theme=graymidnight&hide_border=true)
 
-## 📈 Streak Stats
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hesaa234&theme=dark)](https://gitstreak.com)
+<!-- Grid 2 kolom: Top Languages (kiri) + Stats summary (kanan) -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesaa234&layout=donut&theme=graymidnight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hesaa234&show_icons=false&hide_rank=true&include_all_commits=true&show_all_repos=true&theme=graymidnight&hide_border=true" />
+    </td>
+  </tr>
+</table>
