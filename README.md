@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hesaarka" alt="Hesaarka" />
 </div>
 
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,git,linux,html,css,js" />
+</div>
+
 ## Connect
 
 <div align="center">
@@ -11,12 +17,6 @@
   <a href="mailto:hesakhansaarka@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,git,linux,html,css,js" />
 </div>
 
 ## GitHub Analytics
